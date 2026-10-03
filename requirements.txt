@@ -1,0 +1,6 @@
+argostranslate>=1.11.0
+langdetect>=1.0.9
+mss>=9.0
+Pillow>=10.0
+pynput>=1.7
+pytesseract>=0.3
