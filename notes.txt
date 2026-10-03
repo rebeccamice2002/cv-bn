@@ -1,1 +1,0 @@
-CV-BN is a desktop screen translation utility. Press C, V, B, and N together or use the button, select a region with the mouse, and view the recognized text and its translation.
